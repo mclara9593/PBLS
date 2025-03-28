@@ -657,21 +657,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-Problema3MariaClaraNunesRamos.py
-Exibindo Problema3MariaClaraNunesRamos.py…
-Problema 3 - Entrega do código
-Angelo Conrado Loula
-•
-29 de jun. de 2024
-88
-/100
-88 pontos de 100 possíveis
-Data de entrega: 7 de jul. de 2024
-Sua entrega será o arquivo .py de código fonte em Python. Se você desenvolveu em mais de um arquivo .py, faça um zip com os arquivos e entregue o zip.
-Comentários da turma
-Seus trabalhos
-Com nota
-
-Problema3MariaClaraNunesRamos.py
-Texto
-Comentários particulares
